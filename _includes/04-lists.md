@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Astronomy
+* Physics
+* Mathematics
+* History
+* Control System
+* Leadership
+* Management
