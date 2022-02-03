@@ -1,7 +1,7 @@
-* Astronomy
-* Physics
-* Mathematics
-* History
-* Control System
+* Astronomy 🔭
+* Physics  
+* Mathematics 
+* History 
+* Human Movement Control
 * Leadership
 * Management
